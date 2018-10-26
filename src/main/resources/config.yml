@@ -1,0 +1,16 @@
+display:
+  # {token}
+  normal-token-name: "Punten"
+  # {token1}
+  low-token-name: "punten"
+
+  prefix: "&a❝"
+  suffix: "&a❞"
+
+  tasks:
+    play-time-reward: "&7Je heb &a&l{tokens} &7{token1} ontvangen, omdat je al &a{minutes}&7 minuten online bent!"
+
+  sell:
+    item-lore: "&a&l&oVerkoopbaar"
+    no-interest: "&7Helaas zijn we &c&nniet&7 geïnteresseerd in het kopen van je item(s)."
+    success: "&7Je heb je item(s) ingeruild voor &a&l{tokens} &7{token1}. Nieuw totaal: &a&l{total}"
